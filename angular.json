@@ -132,6 +132,7 @@
               }
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/rose-red.css",
               "projects/angular-app-1/src/styles.scss"
             ],
             "scripts": []
@@ -191,6 +192,7 @@
               }
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/rose-red.css",
               "projects/angular-app-1/src/styles.scss"
             ],
             "scripts": []
